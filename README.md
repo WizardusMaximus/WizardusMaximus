@@ -1,5 +1,3 @@
-![˓ — ៹ ֩ #header 𓂃˒✡︎🪐](https://github.com/user-attachments/assets/af62f618-9ca7-4e2a-8c53-28478ceb92f4)
-
 # 🔮 Wizardus Codeimus Maximus
 *(Archmage of the Lua Realms | Lord of the Scripted Abyss | Part-Time Dragon Tamer)*  
 
@@ -10,7 +8,7 @@
 <p>
   <img 
     align="right" 
-    alt="GitHub Stats" 
+    alt="Studying the Lua realms" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://arthive.com/res/media/img/oy800/work/b80/134330.webp"
