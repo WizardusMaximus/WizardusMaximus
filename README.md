@@ -18,10 +18,19 @@
 
 🎩 **Mission:** To craft immersive Roblox games that hook players with **engaging gameplay**, **unexpected plot twists**, and worlds that feel alive.  
 
-⚠️ **Disclaimer:**  
-- My code is 10% logic, 90% "I’m sure this’ll work. If it crashes, reload. If it still crashes, blame the gremlins in the RAM."  
+📚 **Languages and Tools i have placed my hands on**
+<p>
+  <img
+    height="35"
+    src="https://github.com/user-attachments/assets/9638aa2b-ed44-4e13-8cca-a97a8585d44d"
+</p>
+
+
+
+> My code is 10% logic, 90% "I’m sure this’ll work."  
+>  If it crashes, reload. If it *still* crashes, blame the gremlins in the RAM.
 
 ---
 
-### 🌌 Contact (if you dare)  
-🔮 **Crystal Ball (Discord):** `WizardCodeMax#0000` *(Replies take 1-100 business moons)*
+### 🌌 Contact *(if you dare)*  
+🔮 **Crystal Ball (Discord):** `wizardusmaximus` *(Replies take 1-100 business moons)*
